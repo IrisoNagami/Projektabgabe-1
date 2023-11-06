@@ -1,5 +1,5 @@
 //Implementierung der Bibliothek unseres Profs
-#include "\Users\jakko\Documents\std_lib_inc.h"
+#include "std_lib_inc.h"
 
 int main()
 {
